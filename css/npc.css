@@ -1,0 +1,36 @@
+.imageColumn {
+    width: 35%;
+    border-radius: 50px;
+  }
+  
+  .image {
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    object-position: 0% 0;
+  }
+  
+  table td,
+  table td * {
+    vertical-align: top;
+  }
+  
+  .story {
+    padding: 25px;
+  }
+  
+  .header {
+    font-size: 35px;
+    text-align: center;
+  }
+  
+  .shortInfo {
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  .longStory {
+    text-align: justify;
+  }
+  
