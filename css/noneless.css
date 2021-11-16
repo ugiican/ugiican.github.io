@@ -1,0 +1,32 @@
+.tbordsi .post_ltop {
+    display: none;
+}
+.post_lbot {
+    display: none;
+}
+.signature {
+    display: none;
+}
+.edited_post{
+  display:none; 
+}
+
+.post_rbot{
+  display:none;
+}
+.tborder {
+    display: none;
+}
+.tbordsi .float_right {
+    display: none;
+}.thread_tools {
+    display: none;
+}.forumjump {
+    display: none;
+}.smalltext {
+    display: none;
+}.float_right form {
+    display: none;
+}.float_right .new_reply_button {
+    display: none;
+}
