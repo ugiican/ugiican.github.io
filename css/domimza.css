@@ -1,9 +1,9 @@
 
 .textAnimation {
   color: transparent !important;
-    background: linear-gradient(to left, #350c51, #9a64bf, #9171a6, #7c4a9e, #33293a, #350c51);
+    background: linear-gradient(to left, #350c51, #9a64bf, #9171a6, #BDA3CD, #DDC9E9, #7c4a9e, #33293a, #350c51);
   background-size: 1000px 100%;
-  animation: bg 10s linear infinite;
+  animation: bg 15s linear infinite;
   background-clip: text;
   -webkit-background-clip: text; 
 }
